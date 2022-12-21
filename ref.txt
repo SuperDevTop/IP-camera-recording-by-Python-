@@ -1,0 +1,7 @@
+
+It will look like this (setting file)
+videoFolder: C:\videos
+videoLength: 5 
+Cam-ip:192.168.1.100
+Cam-ip:192.168.1.101
+Cam-ip:192.168.1.102

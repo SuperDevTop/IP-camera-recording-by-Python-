@@ -1,0 +1,19 @@
+{
+    "videoFolder": "C:\\Users\\Lenovo\\Videos\\Captures",
+    "videoLength": 1,
+    "ips": 
+        [ 
+            "192.168.1.45:88",
+            "192.168.1.46:88"
+        ],
+    "usernames":
+        [
+            "Foscam_21",
+            "admin_11"
+        ],
+    "passwords":
+        [
+            "admin123",
+            "admin123"
+        ]
+}
